@@ -1,4 +1,3 @@
-
 import sys
 from random import randint
 from collections import deque #stack
@@ -8,8 +7,6 @@ import puzzle
 import checkpuzzle
 from PriorityQueue import PriorityQueue
 import copy
-
-
 
 class GreedyDepth:
 	def __init__(self,initialpuzzle):
