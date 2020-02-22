@@ -1,4 +1,3 @@
-
 import sys
 from random import randint
 from collections import deque #stack
@@ -9,8 +8,6 @@ import checkpuzzle
 from PriorityQueue import PriorityQueue
 import copy
 import time
-
-
 
 class Astar1:
 	def __init__(self,initialpuzzle):
