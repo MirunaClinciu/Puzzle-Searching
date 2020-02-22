@@ -1,5 +1,5 @@
 # Puzzle-Searching
-An old project - Searching Algorithms for the 8 Puzzle
+Searching Algorithms for the 8 Puzzle
 
 BFS – Breadth-First Search 
 DFS – Depth-First Search
