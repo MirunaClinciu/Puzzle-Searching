@@ -1,4 +1,3 @@
-
 import sys
 from random import randint
 from collections import deque #stack
